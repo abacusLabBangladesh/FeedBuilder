@@ -1,0 +1,10 @@
+{
+  "name": "FeedBuilder",
+  "version": "0.0.0",
+  "description": "FeedBuilder",
+  "main": "app.js",
+  "author": {
+    "name": "shuvo",
+    "email": ""
+  }
+}
