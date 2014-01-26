@@ -1,0 +1,8 @@
+﻿Step 1. Request to a http website 
+Step 2*. RSS feed retrival
+Step 3. Convert into JSON
+Step 4. Send JSON to client
+Step 5. 
+Step 6. Upload it in NPM
+Step 7. Check Number of downloads :D
+sfa
